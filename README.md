@@ -1,29 +1,29 @@
 # PostRequestDemo
 
-> ディレクトリ作成
+>ディレクトリ作成
 
 `mkdir PostRequestDemo`
 
-> git初期化
+>git初期化
 
 `git init`
 
-> expressインストール
+>expressインストール
 
 `npm install express --save`
 
-> ejsインストール
+>ejsインストール
 
 `npm install ejs --save`
 
-> viewsファイル作成
+>viewsファイル作成
 
 `mkdir views`
 
-> home.ejs作成
+>home.ejs作成
 
 `touch views/home.ejs`
 
-> body-parserインストール
+>body-parserインストール
 
 `npm install body-parser --save`
